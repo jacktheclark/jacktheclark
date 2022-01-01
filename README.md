@@ -6,3 +6,6 @@ I cannot publicly share any of my computer science course projects I've worked o
 
 Contact:
 jhclark@stanford.edu
+jack@jacklabs.xyz
+Website:
+jacklabs.xyz
