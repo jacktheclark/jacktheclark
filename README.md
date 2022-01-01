@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @jacktheclark
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Current junior at Stanford, pursuing BS in Management Science, Minor in Computer science. Plan to do an MS in CS from 2023-2024.
+I cannot publicly share any of my computer science course projects I've worked on up to this point, namely:
+- Both an implicit and explicit heap allocator, done in C
+- A fully functional shell with signaling and support for text editors, done in C++
+- A web proxy, done in C++
 
-<!---
-jacktheclark/jacktheclark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Contact:
+jhclark@stanford.edu
