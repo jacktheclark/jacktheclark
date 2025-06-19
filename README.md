@@ -1,2 +1,1 @@
-[whoisjackclark.com
-](url)
+visit [whoisjackclark.com](https://whoisjackclark.com/)
